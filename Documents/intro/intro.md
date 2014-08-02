@@ -1,7 +1,9 @@
 ##### INTRODUCTION
 
-**Paragraph 1:** Uneven distributions of abundance and the aggregation of intraspecific individuals are unifying aspects of ecological theories of biodiversity (McGill 2010). 
-These patterns characterize aspects of community structure and are frequently used to provide insight into mechanisms that shape communities.  ...suggest common sets of mechanisms and so on... Understanding patterns of abundance, distribution, and diversity is a primary goal in ecology (Brown 1995; Rosenzweig 2002; Blackburn & Gaston 2003). The ability to predict the shapes of macroecological patterns serves as the primary basis for evaluating ecological theories (e.g. MacArthur & Wilson 1967; Scudo & Ziegler 1978; May 1981; McGill 2003; Hubbell 2001; Harte 2011).
+**Paragraph 1:** Uneven distributions of abundance and the aggregation of intraspecific individuals are unifying aspects of ecological theories of biodiversity (McGill 2010). ...
+
+
+
 
 **Paragraph 2:** A recent approach to understanding patterns of abundance suggests that, regardless of how abundance comes to vary among species, most of the possible outcomes are uneven and similar. Feasible set..."mechanism-free". From this perspective, this unifying aspect of ecological theories of biodiversity is unifying simply because it almost inevitably occurs regardless of the ecological or statistical mechanism.
 
