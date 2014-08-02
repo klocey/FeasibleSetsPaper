@@ -1,7 +1,6 @@
 ##### INTRODUCTION
 
-**Paragraph 1:** Uneven distributions of abundance among species and the aggregation of intraspecific individuals are unifying assertions of ecological theories of biodiversity (McGill 2010). These assertions are considered to be widespread throughout ecological systems and the theories that assume them are underpinned by a host of mechanisms including random placement or drift, metacommunity dynamics, and maximum entropy. While 
-
+**Paragraph 1:** Uneven distributions of abundance among species and the aggregation of intraspecific individuals are unifying assertions of ecological theories of biodiversity (McGill 2010). These assertions reflect common ecological observations and the theories that assume them, along with the independence of species, can be unified under a single theory of stochastic geometry, i.e., the stochastic placement of individuals in space, that predicts several general biodiversity patterns. However, as of yet, the only unifying assertion that has been given a general, and likely simplistic, explanation is the uneven distribution of abundance among species (Locey and White 2013).
 
 **Paragraph 2:** A recent approach to understanding patterns of abundance suggests that, regardless of how abundance comes to vary among species, most of the possible outcomes are uneven and similar. Feasible set..."mechanism-free". From this perspective, this unifying aspect of ecological theories of biodiversity is unifying simply because it almost inevitably occurs regardless of the ecological or statistical mechanism.
 
