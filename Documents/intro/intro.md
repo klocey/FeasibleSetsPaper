@@ -1,13 +1,21 @@
 ##### INTRODUCTION
-Understanding patterns of abundance, distribution, and diversity is a primary goal in ecology (Brown 1995; Rosenzweig 2002; Blackburn & Gaston 2003). 
-These macroecological patterns characterize aspects of community structure and are frequently used to provide insight into mechanisms that shape communities.
-Likewise, the ability to predict the shapes of macroecological patterns serves as the primary basis for evaluating ecological theories (e.g. MacArthur & Wilson 1967; Scudo & Ziegler 1978; May 1981; McGill 2003; Hubbell 2001; Harte 2011).
-Difficulty in comparing disparate theories arises when very different theories predict similarly shaped patterns.
-This may be due to the fact that although the theories differ in which mechanisms they invoke (e.g., niche partitioning, metacommunity dynamics, stochastic population dynamics, random sampling) they all share a similar set of quantitative variables as inputs (e.g., number of species and total abundance) (McGill 2010). 
+
+Paragraph 1: Uneven distributions of abundance and aggregated spatial patterns of abundance are unifying aspects of ecological theories of biodiversity (McGill 2010). These macroecological patterns characterize aspects of community structure and are frequently used to provide insight into mechanisms that shape communities.  ...suggest common sets of mechanisms and so on... Understanding patterns of abundance, distribution, and diversity is a primary goal in ecology (Brown 1995; Rosenzweig 2002; Blackburn & Gaston 2003). The ability to predict the shapes of macroecological patterns serves as the primary basis for evaluating ecological theories (e.g. MacArthur & Wilson 1967; Scudo & Ziegler 1978; May 1981; McGill 2003; Hubbell 2001; Harte 2011).
+
+Paragraph 2: A recent approach to understanding patterns of abundance suggests that, regardless of how abundance comes to vary among species, most of the possible outcomes are uneven and similar. Feasible set..."mechanism-free". From this perspective, this unifying aspect of ecological theories of biodiversity is unifying simply because it almost inevitably occurs regardless of the ecological or statistical mechanism.
+
+Paragraph 3: Aggregated spatial distributions are another unifying aspect of ecological theories of biodiversity. Like distributions of abundances among species, distributions of a species abundance across a landscape should also have a feasible set characterizing the set of observable outcomes. Because many spatial patterns are generated from discrete samples and discretized landscapes, feasible sets for these patterns should be amenable to an approach like that used by Locey and White (2013). 
+
+Paragraph 4: The feasible approach to SADs suggests an explanation for the universality of the hollow-curve distribution of abundance (Locey and White 2013). We expand this approach ask whether the characteristics of the feasible set for the species spatial abundance distribution SSAD (i.e. the vector of patch or sample abundances of a species across a landscape) explain the aggregated (or uneven) nature of this pattern. In doing so, we improve previous methods and provide open source software for making feasible sets more tenable. We conclude that many ecological patterns are likely to have a mechanism-free component that accounts for their general form and universal nature, but leaves a substantial degree of variation to account for.
+
+
+
 
 General variables like total community abundance (*N*) and species richness (*S*) can strongly influence the shapes of ecological patterns (Harte et al. 2008; McGlinn & Hurlbert 2012; Supp et al. 2012; White et al. 2012; Locey & White 2013).
+
 For example, more than 90% of observed variation in the species abundance distribution (SAD), the vector of abundances of species in a community (McGill et al. 2007), can be explained using statistical models constrained only by *N* and *S* (Harte 2011; White et al. 2012).
 In fact, the majority of possible SAD shapes having the same *N* and *S* (the SAD feasible set) can often explain the general shapes of empirical SADs apart from any assumptions about ecological mechanisms or random sampling (Locey & White 2013). 
+
 The feasible set acknowledges that regardless of *how* the shape of a pattern could arise, whether by ecological mechanism or random sampling, there only so many possible shapes of a pattern that *can* arise.
 The feasible set allows us to examine whether the shape of an observed ecological pattern can be explained by the variation in the shapes that are possible.The feasible set approach is potentially applicable to many ecological patterns and should be extended beyond examinations of the SAD in terms of *N* and *S*.
 The species spatial abundance distribution (SSAD) is the next logical extension of the feasible set approach used to examine the SAD.
