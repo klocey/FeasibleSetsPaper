@@ -2,7 +2,12 @@
 
 **VERSION 1**
 
-Uneven distributions of abundance and aggregated spatial patterns of abundance are unifying aspects of ecological theories of biodiversity. A recent approach to understanding patterns of abundance suggests that, regardless of how abundance comes to vary among species, most of the possible outcomes are uneven and similar. We show how the same is true for spatial distributions, and hence, why these patterns are unifying. That is, uneven distributions of abundance and aggregated spatial distributions are "mechanism-free" patterns because most of the observable outcomes, i.e. the feasible set, have the same general appearance, regardless of how they can arise. We improve the efficiency of previous methods, define the feasible sets of additional patterns, and provide open source software for making feasible sets more tenable. Many ecological patterns are likely to have a mechanism-free component that accounts for their general form and universal nature, but leaves a substantial degree of variation to account for.   
+Uneven distributions of abundance and the aggregation of intraspecific individuals are unifying aspects of ecological theories of biodiversity. 
+A recent approach to understanding patterns of abundance suggests that, regardless of how abundance comes to vary among species, most of the possible outcomes are uneven and similar. 
+We show how the same is true for spatial distributions, and hence, why these patterns are unifying. 
+That is, uneven distributions of abundance and aggregated spatial distributions are "mechanism-free" patterns because most of the observable outcomes, i.e. the feasible set, have the same general appearance, regardless of how they can arise. 
+We improve the efficiency of previous methods, define the feasible sets of additional patterns, and provide open source software for making feasible sets more tenable. 
+Many ecological patterns are likely to have a mechanism-free component that accounts for their general form and universal nature, but leaves a substantial degree of variation to account for.   
 **VERSION 2**Curve fitting is one of the most common methods of evaluating ecological theory. [KL: most folks I know who are looking at RACs are not comparing them to a model. We've agreed this topic paper is more general than a consideration before fitting a curve.]
 However, before curve fitting can be invoked as support for a theory, it is important to account for how strongly constrained a pattern is byprimary  variables thatmay  also serve as model inputs.
 For example, the shape of the species abundance distribution (SAD) can often be explained by the majority of possible SAD shapes having the same total abundance (*N*) and species richness (*S*), i.e. the SAD feasible set. 
