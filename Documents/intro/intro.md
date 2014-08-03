@@ -13,6 +13,8 @@ The reasoning behind *N* and *S* is simple: at the very least, an SAD is compose
 Drawing unbiased random samples from the feasible set revealed that the majority of possible SAD shapes were uneven and that the vast majority of shapes in the feasible set explained 75 to 93% of variation in abundance among species.
 This study provided the first *a priori* explanation for uneven SADs. That is, the vast majority of possible SAD shapes for ecologically realistical values of *N* and *S* are highly similar hollow-curves, which constrains the observable variation in the pattern. 
 
-**Paragraph 4:** The SAD feasible set provides a mechanism free explanation for why SADs should take uneven forms, regardless of what the exact form of the SAD should be or might be driven by and hence, might best be fit by a particular model. This begs the question of whether other unifying assertions of unified theories of biodiversity can be explained from similar first principles. 
+**Paragraph 4:** The SAD feasible set provides a mechanism free explanation for why SADs should take uneven forms, regardless of what the exact form of the SAD should be or might be driven by and hence, might best be fit by a particular model. 
+This begs the question of whether other unifying assertions of unified theories of biodiversity can be explained from similar first principles. 
+If so, this would suggest that the unifying assertions of otherwise disparate biodiversity theories based on all manner of ecological and statistical nature are inherently mechanism free.
 
-Feasible set..."mechanism-free".
+**Paragraph 5:** 
