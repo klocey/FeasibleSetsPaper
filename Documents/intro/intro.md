@@ -1,6 +1,8 @@
 ##### INTRODUCTION
 
-**Paragraph 1:** The spatial aggregation of intraspecific individuals, the spatial independence of interspecific individuals, and the uneven distribution of abundance among species are the unifying assertions of unified theories of biodiversity (McGill 2010). Moreover, these are the minimally sufficient set of assertions or rules needed to predict or explain a host of general biodiversity patterns. Yet, while the unification of unified theories under these assertions has revealed how otherwise disparate theories share a similar stochastic geometry, few general explanations exist for the assertions themselves. It is not yet known how the assertions may be related or even unified. As of yet, only the uneven distribution of abundance has been given a general first principle explanation (Locey and White 2013).
+**Paragraph 1:** The spatial aggregation of intraspecific individuals, the spatial independence of interspecific individuals, and the uneven distribution of abundance among species are the unifying assertions of unified theories of biodiversity (McGill 2010). 
+Moreover, these are the minimally sufficient set of assertions or rules needed to predict or explain a host of general biodiversity patterns. Yet, while the unification of unified theories under these assertions has revealed how otherwise disparate theories share a similar stochastic geometry, few general explanations exist for the assertions themselves. 
+It is not yet known how the assertions may be related or even unified. As of yet, only the uneven distribution of abundance has been given a general first principle explanation (Locey and White 2013).
 
 **Paragraph 2:** The distribution of abundance among species is typically uneven, revealing few abundant species and many rare ones. As mentioned above, theories that predict the form of the distribution begin with the assertion that the distribution is uneven.
 
