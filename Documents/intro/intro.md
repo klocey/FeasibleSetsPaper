@@ -4,9 +4,9 @@
 Moreover, these are the minimally sufficient set of assertions needed to predict or explain a host of biodiversity patterns. Yet, while the unification of unified theories under these assertions has revealed how otherwise disparate theories share a similar stochastic geometry, few general explanations exist for the assertions themselves. 
 It is not yet known how the assertions are related or whether they too can be unified. As of yet, only the uneven distribution of abundance has been given a general *a priori* explanation (see Locey & White 2013).
 
-**Paragraph 2:** The species abundance distribution (SAD) is the vector of abundances of species in a community and is generally characterized by the presence of a few abundant species and many rare ones  (McGill et al. 2007).
-As a distribution of abundance classes, the SAD reveals a decreasing trend in the frequency of increasingly large abundance classes, i.e. the hollow-curve SAD.
-While uneven distributions of wealth and abundance are common outside of ecology, the SAD is one of the most highly studied pattern in ecology and is the first pattern that any theory of biodiversity should reasonably predict (McGill ...).
+**Paragraph 2:** The distribution of abundance among species is often characterized by the presence of a few abundant species and many rare ones  (McGill et al. 2007).
+As a distribution of abundance classes, the species abundance distribuitons (SAD) reveals a decreasing trend in the frequency of increasingly large abundance classes, i.e. the canonical hollow-curve.
+The SAD is one of the most intensively studied ecological pattern and is the first pattern that any theory of biodiversity should reasonably predict (McGill ...).
 However, the theories that predict the form of the SAD that assert that it is already uneven, by virtue of their underlying statistical or sampling framework, 
 
 
