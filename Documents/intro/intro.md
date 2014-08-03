@@ -8,7 +8,8 @@ It is not yet known how the assertions are related or whether they too can be un
 As a distribution of abundance classes, the species abundance distribution (SAD) reveals a decreasing trend in the frequency of increasingly large abundance classes, i.e. the canonical hollow-curve.
 The SAD is one of the most intensively studied ecological patterns and is the first pattern a theory of biodiversity should reasonably predict (McGill ...). However, while several biodiversity theories predict the form of the SAD with great accuracy, they do not explain why the SAD should be uneven, regardless of the exact form. They simpy *assert* that it is uneven by virtue of their sampling theory or analytical framework (McGill 2010).
 
-Locey and White (2013) considered all possible and unique forms of the distribution of abundance among species without considering how any of the forms could arise. Consequently, regardless of how any form of the SAD could arise 
+Locey and White (2013) considered the set of all possible unique forms of the SAD having the same total abunance (*N*) and species richness (*S*), i.e. the SAD feasible set. They draw unbiased random samples from the feasible set and concluded that the majority of possible SAD shapes were uneven and explained 75 to 93% of variation in abundance among species. This provided the first *a priori* explanation for uneven SADs: The vast majority of possible SAD shapes for ecologically realistical values of *N* and *S* are highly similar hollow-curves, and this constrains the observable variation in the observed and predicted forms of this pattern.
+
 
  and the modelsbefore hand that generates uneven distributions, the exact shape of which is influenced by inputs such as total abundance (**N**) and species richness (**S**). 
 
