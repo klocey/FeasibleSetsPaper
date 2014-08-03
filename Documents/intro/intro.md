@@ -2,9 +2,18 @@
 
 **Paragraph 1:** The spatial aggregation of intraspecific individuals, the spatial independence of interspecific individuals, and the uneven distribution of abundance among species are the unifying assertions of unified theories of biodiversity (McGill 2010). 
 Moreover, these are the minimally sufficient set of assertions needed to predict or explain a host of biodiversity patterns. Yet, while the unification of unified theories under these assertions has revealed how otherwise disparate theories share a similar stochastic geometry, few general explanations exist for the assertions themselves. 
-It is not yet known how the assertions are related or whether they too can be unified. As of yet, only the uneven distribution of abundance has been given a general first principle explanation (Locey and White 2013).
+It is not yet known how the assertions are related or whether they too can be unified. As of yet, only the uneven distribution of abundance has been given a general *a priori* explanation (see Locey & White 2013).
 
-**Paragraph 2:** The distribution of abundance among species is typically uneven, revealing few abundant species and many rare ones. As mentioned above, theories that predict the form of the distribution begin with the assertion that the distribution is uneven.
+**Paragraph 2:** The species abundance distribution (SAD) is the vector of abundances of species in a community and is generally characterized by the presence of a few abundant species and many rare ones  (McGill et al. 2007).
+As a distribution of abundance classes, the SAD reveals a decreasing trend in the frequency of increasingly large abundance classes, i.e. the hollow-curve SAD.
+While uneven distributions of wealth and abundance are common outside of ecology, the SAD is one of the most highly studied pattern in ecology and is the first pattern that any theory of biodiversity should reasonably predict (McGill ...).
+However, the theories that predict the form of the SAD that assert that it is already uneven, by virtue of their underlying statistical or sampling framework, 
+
+
+ because the underlying assumptions, sampling theory, analytical form, or statistical distribution.
+Locey and White (2013) considered all possible and unique forms of the distribution of abundance among species without considering how any of the forms could arise. Consequently, regardless of how any form of the SAD could arise 
+
+ and the modelsbefore hand that generates uneven distributions, the exact shape of which is influenced by inputs such as total abundance (**N**) and species richness (**S**). 
 
 
  recent approach to understanding patterns of abundance suggests that, regardless of how abundance comes to vary among species, most of the possible outcomes are uneven and similar. Feasible set..."mechanism-free". From this perspective, this unifying aspect of ecological theories of biodiversity is unifying simply because it almost inevitably occurs regardless of the ecological or statistical mechanism.
