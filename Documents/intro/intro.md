@@ -4,7 +4,7 @@
 Moreover, these are the minimally sufficient set of assertions needed to predict or explain a host of biodiversity patterns. 
 Yet, while the unification of unified theories under these assertions has revealed how otherwise disparate theories share a similar stochastic geometry, few general explanations exist for the assertions themselves. 
 It is not yet known how the assertions are related or whether they too can be unified. 
-As of yet, only the uneven distribution of abundance among species has been given a general *a priori* explanation (see Locey & White 2013).
+As of yet, only the uneven distribution of abundance among species has been given a general *a priori* explanation (Locey & White 2013).
 
 **Paragraph 2:** The distribution of abundance among species is generally characterized by the presence of a few abundant species and many rare ones (McGill et al. 2007).
 As a distribution of abundance classes, the species abundance distribution (SAD) reveals a decreasing trend in the frequency of increasingly large abundance classes, i.e. the canonical hollow-curve.
@@ -16,7 +16,7 @@ Instead, they *assert* that the SAD is uneven by virtue of their sampling theory
 The reasoning behind *N* and *S* is simple: at the very least, an SAD is composed of one or more individuals belonging to one or more species.
 In short, *N* and *S* are the primary variables needed to construct all possible shapes of the SAD using a conceptually simple mathematical principle: there are finite number of ways that the abundances of *S* unlabeled species can sum to a total abundance of *N*.
 Examining the SAD feasible set revealed that the majority of possible SAD shapes were uneven and that the vast majority of shapes in the feasible set explained 75 to 93% of variation in abundance among species (Locey & White 2013).
-This provided the first *a priori* explanation for uneven SADs, i.e. the vast majority of possible SAD shapes for ecologically realistical values of *N* and *S* are similarly-shaped hollow-curves.
+This provided an *a priori* explanation for uneven SADs, i.e. the vast majority of possible SAD shapes for ecologically realistical values of *N* and *S* are similarly-shaped hollow-curves.
 
 **Paragraph 4:** The SAD feasible set provides a mechanism free explanation for why SADs should take uneven forms.
 That is, if nearly all possible shapes or forms of a pattern are uneven or aggregated, then we should expect to see and predict forms that, while varying in their specific shape, are uneven or aggregated.
