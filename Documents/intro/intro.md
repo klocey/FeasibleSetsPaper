@@ -19,8 +19,10 @@ Examining the SAD feasible set revealed that the majority of possible SAD shapes
 This provided the first *a priori* explanation for uneven SADs, i.e. the vast majority of possible SAD shapes for ecologically realistical values of *N* and *S* are similarly-shaped hollow-curves.
 
 **Paragraph 4:** The SAD feasible set provides a mechanism free explanation for why SADs should take uneven forms.
+That is, if nearly all possible shapes or forms of a pattern are uneven or aggregated, then we should expect to see and predict forms that, while varying in their specific shape, are uneven or aggregated.
 This begs the question of whether other unifying assertions of unified theories of biodiversity can be explained from similar first principles.
 If so, this would suggest that the unifying assertions of unified biodiversity theories that are likewise, unified by their similar stochastic geometries, are mechanism free.
+
 
 **Paragraph 5:**
 Here, we address the assertion of a spatial aggregation of intraspecific individuals by providing an *a priori* explanation for the intraspecific spatial abundance distribution, aka, the species spatial abundance distribution (SSAD). The SSAD, like the SAD, can be expressed as both a rank distribution (abundance of a plot or sample vs. rank in abundance) and a frequency distribution (frequency of abundance classes among plots or samples). Also, like the SAD, the SSAD takes a hollow-curve form and hence, a similar form in ranked abundances (Brown ...). Perhaps most importantly for our purposes and again like the SAD, the SSAD is a spatially implicit distribution of unlabeled individuals, i.e., an unlabeled/unlabeled configuration. But, unlike the SAD, where all species present have at least one individual, the SSAD allows for zeros, i.e, absences of a species within a plot or sample.
