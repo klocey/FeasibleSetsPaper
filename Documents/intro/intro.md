@@ -20,6 +20,7 @@ This provided the first *a priori* explanation for uneven SADs, i.e. the vast ma
 
 **Paragraph 4:** The SAD feasible set provides a mechanism free explanation for why SADs should take uneven forms.
 This begs the question of whether other unifying assertions of unified theories of biodiversity can be explained from similar first principles.
-If so, this would suggest that the unifying assertions of disparate unified biodiversity theories that are likewise unified by their similar stochastic geometries, are inherently mechanism free.
+If so, this would suggest that the unifying assertions of unified biodiversity theories that are likewise, unified by their similar stochastic geometries, are mechanism free.
 
-**Paragraph 5:** 
+**Paragraph 5:**
+Here, we address the assertion of a spatial aggregation of intraspecific individuals by providing an *a priori* explanation for the intraspecific spatial abundance distribution. Like the SAD, most theories explicitly or implicitly assert that the distribution is aggregated, without explaining why it should be. That is, one cannot say, "To explain aggregation, consider this process or mechanism that leads to an aggregated pattern." because aggregation is already built into it.  
